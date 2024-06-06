@@ -1,37 +1,76 @@
-Rock Paper Scissors Game
+# Rock Paper Scissors Game
+
 A simple Android game implementation of Rock, Paper, Scissors using Jetpack Compose.
 
-Description
-This project is a mobile application built with Kotlin, Jetpack Compose framework and MVVM Pattern. It allows users to play the classic Rock, Paper, Scissors game against the computer. The game features a user-friendly interface and supports single-player mode.
+## Description
 
-Features
-Single-player mode: Play against the computer.
-Intuitive UI: Simple and easy-to-use interface.
-Dynamic gameplay: Enjoy the classic Rock, Paper, Scissors game.
+This project is a mobile application built with Kotlin and Jetpack Compose framework with MVVM Pattern. It allows users to play the classic Rock, Paper, Scissors game against the computer. The game features a user-friendly interface and supports single-player mode.
 
-Getting Started
+## Features
+
+- Single-player mode: Play against the computer.
+- Intuitive UI: Simple and easy-to-use interface.
+- Dynamic gameplay: Enjoy the classic Rock, Paper, Scissors game.
+
+
+## Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Clone the repository:
+1. Clone the repository:
 
-bash
+
+To format your README file properly with Markdown syntax, you need to ensure that each section is properly formatted and separated by blank lines. Here's the README template with proper Markdown formatting:
+
+markdown
 Copy code
+# Rock Paper Scissors Game
+
+A simple Android game implementation of Rock, Paper, Scissors using Jetpack Compose.
+
+## Description
+
+This project is a mobile application built with Kotlin and Jetpack Compose framework. It allows users to play the classic Rock, Paper, Scissors game against the computer. The game features a user-friendly interface and supports single-player mode.
+
+## Features
+
+- Single-player mode: Play against the computer.
+- Intuitive UI: Simple and easy-to-use interface.
+- Dynamic gameplay: Enjoy the classic Rock, Paper, Scissors game.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+1. Clone the repository:
+
 git clone https://github.com/your_username/rock-paper-scissors.git
-Open the project in Android Studio.
 
-Build and run the project on an Android device or emulator.
 
-Prerequisites
-Android Studio
-Android SDK
-Kotlin
-Jetpack Compose
+2. Open the project in Android Studio.
 
-Built With
-Kotlin - Programming language
-Jetpack Compose - UI toolkit
-Android Studio - IDE for Android development
-Authors
-Muhammad Furqan - Initial work
-License
+3. Build and run the project on an Android device or emulator.
+
+## Prerequisites
+
+- Android Studio
+- Android SDK
+- Kotlin
+- Jetpack Compose
+
+## Built With
+
+- [Kotlin](https://kotlinlang.org/) - Programming language
+- [Jetpack Compose](https://developer.android.com/jetpack/compose) - UI toolkit
+- [Android Studio](https://developer.android.com/studio) - IDE for Android development
+
+## Authors
+
+- [Your Name](https://github.com/MuhammadFurqan786) - Initial work
+
+## License
+
 This project is licensed under the MIT License.
+
+
+
