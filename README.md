@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-- [Your Name](https://github.com/MuhammadFurqan786) - Initial work
+- [Muhammad Furqan](https://github.com/MuhammadFurqan786) - Initial work
 
 ## License
 
