@@ -17,10 +17,7 @@ This project is a mobile application built with Kotlin and Jetpack Compose frame
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-1. Clone the repository:
-
-git clone https://github.com/your_username/rock-paper-scissors.git
-
+1. Clone the repository: git clone https://github.com/your_username/rock-paper-scissors.git
 
 2. Open the project in Android Studio.
 
